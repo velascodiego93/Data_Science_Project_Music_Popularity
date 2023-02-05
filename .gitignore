@@ -132,6 +132,7 @@ dmypy.json
 *.db
 *.xlsx
 *.sql
+*.sqlite3
 *.png
 share/
 Scripts/
@@ -139,3 +140,4 @@ Scripts/
 datascience_project/
 databases/
 .vs/
+vs/
