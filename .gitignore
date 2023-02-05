@@ -138,3 +138,4 @@ Scripts/
 *.cfg
 datascience_project/
 databases/
+.vs/
