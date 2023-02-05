@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# User added
+*.db
+*.xlsx
+*.sql
+*.png
+share/
+Scripts/
+*.cfg
+datascience_project/
+databases/
